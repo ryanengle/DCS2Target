@@ -22,6 +22,11 @@
 --  A-10C:
 --      Speed brake position
 --      Console light control level
+--      Added by fuze
+--          GEAR Nose 
+--          GEAR Left
+--          GEAR Right
+--          GEAR Warning (handle)
 --
 --  F/A-18C Hornet:
 --      Speed brake position
@@ -36,7 +41,7 @@
 --      Master warning (on/off)
 --
 --
--- Author: slughead
+-- Author: slughead, fuze (10/12/2024)
 -- Last edit: 03/03/2024
 --
 -- Version 1.0.8 - Added missing init functions and corrected call to init to fix errors in dcs.log
