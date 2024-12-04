@@ -31,6 +31,11 @@
 --  F/A-18C Hornet:
 --      Speed brake position
 --      Console light control level
+--      Added by fuze
+--          GEAR Nose 
+--          GEAR Left
+--          GEAR Right
+--          GEAR Warning (handle)
 --
 --  JF-17:
 --      GEAR Nose
@@ -41,7 +46,7 @@
 --      Master warning (on/off)
 --
 --
--- Author: slughead, fuze (10/12/2024)
+-- Author: slughead, fuze (12/4/2024)
 -- Last edit: 03/03/2024
 --
 -- Version 1.0.8 - Added missing init functions and corrected call to init to fix errors in dcs.log
